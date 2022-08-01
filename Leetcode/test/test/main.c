@@ -28,7 +28,6 @@ int search_bin(int list[],int find_n,int len){
 }
 
 
-
 int main(int argc, const char * argv[]) {
     
     int n;
