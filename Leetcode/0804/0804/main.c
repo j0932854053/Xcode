@@ -7,6 +7,18 @@
 
 #include <stdio.h>
 
+struct Tree{
+    int val;
+    
+    struct Tree *left;
+    struct Tree *righ;
+    
+};
+
+
+
+
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
