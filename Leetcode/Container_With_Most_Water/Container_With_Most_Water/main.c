@@ -9,6 +9,7 @@
 
 int main(int argc, const char * argv[]) {
     printf("init\n");
+    printf("test2\n");
     printf("Hello, World!\n");
     return 0;
 }
