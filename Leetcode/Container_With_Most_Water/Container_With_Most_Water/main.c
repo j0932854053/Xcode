@@ -36,5 +36,7 @@ int main(int argc, const char * argv[]) {
     
     printf("Max area is : %d \n", result);
     
+    
     return 0;
 }
+
