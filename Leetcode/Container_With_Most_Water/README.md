@@ -33,10 +33,12 @@ Output: 1
 
 
 **Constraints:**
-- $$ n = \text{height.length} $$
-- $$ 2 \leq n \leq 10^5 $$
-- $$ 0 \leq \text{height}[i] \leq 10^4 $$
-- 
+
+- $n = \text{height.length}$
+
+- $2 \leq n \leq 10^5$
+
+- $0 \leq \text{height}[i] \leq 10^4$
 
 
 __________________________________________________________
